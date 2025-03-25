@@ -1,0 +1,2 @@
+pour générer sql code d'après ex1 il faut changer la relation "associer"
+ordonnance : 1,n      consultation : 0,1
